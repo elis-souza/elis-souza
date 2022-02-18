@@ -1,4 +1,4 @@
-### Oi eu sou a Elis Souza, estou estudando para me tornar uma dev Front end!
+### Oi, meu nome Elis Souza, estou estudando para me tornar uma dev Front end!
 
 
 <div align="center">
