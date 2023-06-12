@@ -1,4 +1,4 @@
-### Oi, meu nome é Elis Souza, estou estudando para me tornar uma dev Front end!
+### Hi, my name is Elis Souza.
 
 
 <div align="center">
@@ -23,7 +23,6 @@
   ##
   
  <div> 
-    <a href="https://www.instagram.com/elis_css689" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:elissouza.artwork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/elis-souza-243a0582/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
